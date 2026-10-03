@@ -52,7 +52,6 @@ Web-based system for managing student complaints with **student/admin authentica
 
 ## 📊 GitHub Stats
 
-<!-- Add your GitHub Stats here -->
 
 ## 🧩 Coding Profiles
 
