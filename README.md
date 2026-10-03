@@ -34,7 +34,7 @@ Machine Learning Fundamentals • AI Concepts • Explainable AI
 🏡 **Wanderlust**
 Full-stack travel and property listing web application built using **Node.js, Express.js, MongoDB, EJS and Bootstrap**, with authentication, reviews, image uploads and CRUD functionality.
 
-🤖 **Nexora AI**
+🤖 **Lumora AI**
 AI-powered conversational web application built using the **MERN stack**, featuring an interactive UI and OpenAI API integration for context-aware conversations.
 
 🎓 **College Complaint Management System**
@@ -56,13 +56,13 @@ Web-based system for managing student complaints with **student/admin authentica
 
 ## 🧩 Coding Profiles
 
-🔹 **LeetCode:** [Add your profile link]
-🔹 **GeeksforGeeks:** [Add your profile link]
+🔹 **LeetCode:"https://leetcode.com/u/Vaibhav_Sushir/"
+🔹 **GeeksforGeeks:"https://www.geeksforgeeks.org/profile/edit"
 
 ## 📬 Connect With Me
 
-💼 **LinkedIn:** [Add your LinkedIn profile]
-📧 **Email:** [Add your email]
+💼 **LinkedIn:"https://www.linkedin.com/in/vaibhav-sushir-873508292"
+📧 **Email:
 
 ---
 
