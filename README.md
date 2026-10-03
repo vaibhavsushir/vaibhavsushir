@@ -31,13 +31,13 @@ Machine Learning Fundamentals • AI Concepts • Explainable AI
 
 ## 📌 Featured Projects
 
-🏡 **Wanderlust**
+🏡 **Wanderlust :**
 Full-stack travel and property listing web application built using **Node.js, Express.js, MongoDB, EJS and Bootstrap**, with authentication, reviews, image uploads and CRUD functionality.
 
-🤖 **Lumora AI**
+🤖 **Lumora AI :**
 AI-powered conversational web application built using the **MERN stack**, featuring an interactive UI and OpenAI API integration for context-aware conversations.
 
-🎓 **College Complaint Management System**
+🎓 **College Complaint Management System :**
 Web-based system for managing student complaints with **student/admin authentication, complaint tracking, status updates and remarks**.
 
 ## 🧩 Coding & Learning
