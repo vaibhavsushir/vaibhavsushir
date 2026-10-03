@@ -62,7 +62,7 @@ Web-based system for managing student complaints with **student/admin authentica
 ## 📬 Connect With Me
 
 💼 **LinkedIn:"https://www.linkedin.com/in/vaibhav-sushir-873508292"
-📧 **Email:
+📧 **Email:"sushirvaibhav523@gmail.com"
 
 ---
 
